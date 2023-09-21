@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "test-entry"
+  },
+  "targets": {
+    "test-entry": {
+      "hosting": {
+        "dev": [
+          "dashboard-vx"
+        ]
+      }
+    }
+  }
+}
